@@ -20,6 +20,8 @@ https://zielony.biz.pl/
 
 ## Inicjatywy globalne
 
+Blockchain marketplace
+https://github.com/openbazaar
 
 
 ---

@@ -24,9 +24,15 @@ Blockchain marketplace
 https://github.com/openbazaar
 
 
+## Software marketplace based on blockchain
+https://www.openware.com/solution/nft-marketplace-software-platform
+
+
 ## Infrastruktura IoT, LoRaWan
 https://www.helium.com/ecosystem
 
+
++ [www.blockchains.pl](https://www.blockchains.pl/#/)
 
 ---
 + [edit](https://github.com/lokalnawaluta/www/edit/main/README.md)

@@ -24,5 +24,9 @@ Blockchain marketplace
 https://github.com/openbazaar
 
 
+## INfrastruktura IoT 
+https://www.helium.com/ecosystem
+
+
 ---
 + [edit](https://github.com/lokalnawaluta/www/edit/main/README.md)

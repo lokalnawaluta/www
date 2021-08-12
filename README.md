@@ -24,7 +24,7 @@ Blockchain marketplace
 https://github.com/openbazaar
 
 
-## INfrastruktura IoT 
+## Infrastruktura IoT, LoRaWan
 https://www.helium.com/ecosystem
 
 

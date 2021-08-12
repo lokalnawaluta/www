@@ -20,3 +20,5 @@ https://zielony.biz.pl/
 
 
 
+---
++ [edit](https://github.com/lokalnawaluta/www/edit/main/README.md)

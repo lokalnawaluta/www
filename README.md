@@ -8,3 +8,15 @@ Tym więcej ich powstaje im częściej mówi się o likwidacji gotówki, która 
 Inicjatywy lokalnych walut nie są nowe, były pierwszymi, ale odkąd stosuje się politykę globalizacji
 zaczęto wypierać lokalne waluty, mimo wszystko powstają skutecznie nowe rozwiązania oparte o najnowsze technologie.
 
+
+## Inicjatywy w Polsce:
+
+
+https://zielony.biz.pl/
+
+
+
+## Inicjatywy globalne
+
+
+

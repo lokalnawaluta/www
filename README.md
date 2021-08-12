@@ -1,4 +1,6 @@
-# lokalnawaluta.pl
+# [www.lokalnawaluta.pl](https://www.lokalnawaluta.pl)
+
++ [Oferta sprzedaży domeny lokalnawaluta.pl (lokalna waluta)](https://premium.pl/lokalnawaluta.pl)
 
 ## powody powstania projektu
 

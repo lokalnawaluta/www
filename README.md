@@ -29,9 +29,14 @@ https://www.openware.com/solution/nft-marketplace-software-platform
 
 
 ## Infrastruktura IoT, LoRaWan
+
 https://www.helium.com/ecosystem
 
+## Lokalne waluty w niemczech:
 
+https://de.wikipedia.org/wiki/Regionalw%C3%A4hrung
+
+## blockchains
 + [www.blockchains.pl](https://www.blockchains.pl/#/)
 
 ---

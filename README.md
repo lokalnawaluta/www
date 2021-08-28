@@ -14,11 +14,13 @@ zaczęto wypierać lokalne waluty, mimo wszystko powstają skutecznie nowe rozwi
 
 Czy przymus posiadania konta w banku i dokonywania transakcji z użyciem tego konta przez przedsiębiorcę narusza Konstytucję RP?
 
+
 ### Czym jest Konto bankowe?
 
 Klient w banku nie ma pieniędzy tylko wierzytelność przysługującą mu od banku-dłużnika, która może zostać rozliczona w pieniądzu lub wekslach, inaczej notach banku, albo innej formie np. towarach. Jednorazowo lub we fragmentach.
 
 Przedmiotem kradzieży z konta bankowego są zawsze środki należące do banku.
+
 
 ### Wierzytelność banku
 
@@ -56,23 +58,34 @@ Tak stanowi prawo, w praktyce banki omijają przepisy zarzucając klientom np. "
 
 ### Autoryzacja płatności
 
-To banki odpowiadają za nieautoryzowane transakcje płatnicze.
++ To banki odpowiadają za nieautoryzowane transakcje płatnicze.
 
 Transakcję uważa się **za autoryzowaną** jeśli płatnik wyraził na nią zgodę (art. 40 Ustawy) czyli, transakcją nieuatoryzowaną będzie każda transakcja zlecona przez osobę do tego nieuprawnioną.
 
 Dla uznania transakcji **za nieautoryzowaną** nie jest istotne, czy dana osoba ***mogła znać loginy i hasła** albo czy potwierdziła transakcję kodem jednorazowym.
 
 
+### Zabezpieczenia 
+
++ Za bezpieczeństwo zabezpieczeń odpowiada bank. 
+ 
 Bank musi oddać pieniądze zawsze, gdy transakcji dokonała osoba do tego **nieuprawniona**.
 
 
-+ Za bezpieczeństwo zabezpieczeń odpowiada bank. 
 
+### Odpowiedzialność Klienta
+
+Art. 46 ustawy mówi, że: 
++ odpowiedzialność może być przerzucona na klienta banku jeśli dopuścił się on "rażącego niedbalstwa"
+czyli gdyby np. gdyby rozpowiadał o swoim haśle.
+
+Bank zazwyczaj powoła się na "rażąco niedbałe" działanie klienta i jeśli klient się z tym nie zgadza to powinien wyjaśnić to w sądzie, czego z reguły Klient nie robi.
 
 Klientowi trzeba udowodnić **świadome i celowe** przełamanie zabezpieczeń lub świadome i celowe przekazanie dostępu w celu wyrządzenia szkody bankowi jako przedsiębiorcy, aby klient mógł za cokolwiek z mocy prawa odpowiedzieć.
 
 
 Za wszystkie uszczuplenia w składnikach majątku klienta posiadającego konto w banku, do którego to majątku zalicza się suma wierzytelności wobec banku-dłużnika należą się klientowi odszkodowania i zadośćuczynienia, a bank, jego zarząd i jego pracownicy mogą i powinni za nieprawne uszczuplenie majątku klienta ponieść odpowiedzialność karną.
+
 
 ### Wniosek
 

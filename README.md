@@ -55,7 +55,6 @@ Jeśli dojdzie do kradzieży z konta bankowego to te środki powinny być zwróc
 
 Tak stanowi prawo, w praktyce banki omijają przepisy zarzucając klientom np. "niedbalstwo". 
 
-
 ### Autoryzacja płatności
 
 + To banki odpowiadają za nieautoryzowane transakcje płatnicze.
@@ -76,13 +75,17 @@ Bank musi oddać pieniądze zawsze, gdy transakcji dokonała osoba do tego **nie
 ### Odpowiedzialność Klienta
 
 Art. 46 ustawy mówi, że: 
+
 + odpowiedzialność może być przerzucona na klienta banku jeśli dopuścił się on "rażącego niedbalstwa"
 czyli gdyby np. gdyby rozpowiadał o swoim haśle.
 
 Bank zazwyczaj powoła się na "rażąco niedbałe" działanie klienta i jeśli klient się z tym nie zgadza to powinien wyjaśnić to w sądzie, czego z reguły Klient nie robi.
 
-Klientowi trzeba udowodnić **świadome i celowe** przełamanie zabezpieczeń lub świadome i celowe przekazanie dostępu w celu wyrządzenia szkody bankowi jako przedsiębiorcy, aby klient mógł za cokolwiek z mocy prawa odpowiedzieć.
+czy zachowanie Klienta naprawdę było "rażąco niedbałe", np podczas ataku phishingowego, gdzie dane zostały podstępem wyłudzone?
 
+Sąd nie może uznać działań nieświadomych za rażąco niedbałe, innymi słowy rażąco niedbałą jest osoba świadomie przekraczająca zasady. 
+
+Klientowi trzeba udowodnić **świadome i celowe** przełamanie zabezpieczeń lub świadome i celowe przekazanie dostępu w celu wyrządzenia szkody bankowi jako przedsiębiorcy, aby klient mógł za cokolwiek z mocy prawa odpowiedzieć.
 
 Za wszystkie uszczuplenia w składnikach majątku klienta posiadającego konto w banku, do którego to majątku zalicza się suma wierzytelności wobec banku-dłużnika należą się klientowi odszkodowania i zadośćuczynienia, a bank, jego zarząd i jego pracownicy mogą i powinni za nieprawne uszczuplenie majątku klienta ponieść odpowiedzialność karną.
 
@@ -91,6 +94,10 @@ Za wszystkie uszczuplenia w składnikach majątku klienta posiadającego konto w
 
 Przymus posiadania konta w banku i dokonywania transakcji z użyciem tego konta jest wywłaszczeniem i narusza Konstytucję RP.
 
+### Więcej
+
+Warto przeczytać o przykładowych sytuacjach w artykule:
+[» Ukradli mi pieniądze z konta i co dalej? Prawo swoje a banki swoje -- Niebezpiecznik.pl --](https://niebezpiecznik.pl/post/ukradli-mi-pieniadze-z-konta-i-co-dalej-prawo-swoje-a-banki-swoje/)
 
 
 ## Inicjatywy w Polsce:

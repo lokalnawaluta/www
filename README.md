@@ -131,18 +131,8 @@ Typologicznie biorąc, chleb jest tym samym co spokój. Dowiedziałem się o tym
 ## Inicjatywy w Polsce:
 
 
-https://zielony.biz.pl/
++ [Lokalna waluta: Zielony - zielony.biz.pl](https://zielony.biz.pl/)
 
-
-
-## Inicjatywy globalne
-
-Blockchain marketplace
-https://github.com/openbazaar
-
-
-## Software marketplace based on blockchain
-https://www.openware.com/solution/nft-marketplace-software-platform
 
 
 ## Infrastruktura IoT, LoRaWan
@@ -200,8 +190,18 @@ Czy możesz tym zapłacić swojemu dostawcy?
 Czy możesz tym opłacić podatki?
 
 
-## blockchains
+# blockchain
+
+## Blockchain marketplace
+[OpenBazaar on Github](https://github.com/openbazaar)
+
+
+## Software marketplace based on blockchain
+https://www.openware.com/solution/nft-marketplace-software-platform
+
+
 + [www.blockchains.pl](https://www.blockchains.pl/#/)
+
 
 ---
 + [edit](https://github.com/lokalnawaluta/www/edit/main/README.md)

@@ -100,6 +100,34 @@ Warto przeczytać o przykładowych sytuacjach w artykule:
 [» Ukradli mi pieniądze z konta i co dalej? Prawo swoje a banki swoje -- Niebezpiecznik.pl --](https://niebezpiecznik.pl/post/ukradli-mi-pieniadze-z-konta-i-co-dalej-prawo-swoje-a-banki-swoje/)
 
 
+## Ryzyko przypadkowej utraty  
+
+
+Prawem zainteresowałem się na serio w 2 klasie szkoły podstawowej. Mama często posyłała mnie do sklepu po chleb. W sklepie tym musiałem stać w kolejce i czekać cierpliwie aż przywiozą chleb. W sklepie nie było niczego interesującego, na czym można by dłużej skupić uwagę. Z jednym wyjątkiem - nad pustymi półkami na chleb znajdowała się duża biała kartka z łacińską paremią prawniczą: "Tetigit panem consideretrur vendidit". 
+
+Napis ten był co prawda sporządzony wyłącznie w języku polskim i w tłumaczeniu na język polski brzmiał: "Pieczywo dotknięte uważa się za sprzedane". 
+
+Gdy pani sklepowa kładła przede mną kupowany przeze mnie chleb, za każdym razem dotykałem go wyraźnie, aby było jasne, że chleb ten został sprzedany właśnie mi - a nie komuś innemu. Dopiero jako student zrozumiałem, że paremia ta była tym, czym jest ostrzeżenie myszy przed pułapką na myszy, w której nie ma sera. Po skończeniu studiów wiedziałem też nieco więcej:
+
+(a) umowa sprzedaży chleba jest umową adhezyjną (czyli taką, którą zawieram przystępując do gotowej umowy a nie taką, którą negocjuję w ten sposób, że przychodzę rano do sklepu po jedną bułkę z całym zespołem prawników od M&A);
+
+(b) umowa sprzedaży chleba nie jest umową o podwójnym skutku (pisałem już kiedyś);
+
+(c) ponieważ bochenek chleba jest rzeczą oznaczoną tylko co do gatunku, więc bochenek ten przechodzi na moją własność dopiero, gdy zostanie mi wydany lub co najmniej odłożony na bok lub pod ladę dla mnie lub jakoś inaczej oznaczony i odseparowany od innych chlebów jako ten, który ja kupuję);
+
+(d) ryzyko przypadkowej utraty chleba przechodzi na mnie jednak dopiero wtedy, gdy chleb zostanie mi wydany (jeśli zatem jakiś złodziej lub nagła powódź porwałaby chleb z lady zanim ja sam zdążyłem wziąć ten chleb z lady, to piekarnia musiałby oddać mi pieniądze za ten chleb, pomimo że chleb ten już przeszedł na moją własność; inaczej mówiąc - moment przejścia własności i moment przejście ryzyka to nie musi być ta sama chwila – i warto o tym wiedzieć, gdy się kupuje bardzo drogi chleb).
+
+Jak wiadomo, C. K. Norwid tęsknił do Polski – „Kraju tego, gdzie kruszynę chleba podnoszą z ziemi przez uszanowanie dla darów Nieba...”. Był to jeden z bardzo nielicznych wierszy, o którym wiedziałem, o czym ten wiersz mówi. Kruszyny należało zbierać. Gdy upadła na podłogę cała kromka, należało ją podnieść i ucałować. Mógłbym powiedzieć, że w dzieciństwie sporo nacałowałem się z chlebem. 
+
+Kiedyś w Polsce wszystko jadło się z chlebem albo z ziemniakami. Albo z chlebem. Albo z ziemniakami. Albo- Albo. Jak w tytule książki S. Kierkegaarda. Gdy w wieku 6 lat po raz pierwszy odwiedziłem w ZSRR moją rosyjską babcię, zdziwiłem się, że Rosjanie nie wszystko jedzą albo z chlebem, albo z ziemniakami. Jedzą za to chleb z ziemniakami.
+
+Typologicznie biorąc, chleb jest tym samym co spokój. Dowiedziałem się o tym z makatki, która wisiała w moim dzieciństwie w kuchni na ścianie. Było na tej makatce napisane: "Spokoju i chleba w domu potrzeba".
+
+
+"Chleb", Piotr Staroń
+
+
+
 ## Inicjatywy w Polsce:
 
 

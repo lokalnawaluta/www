@@ -10,27 +10,73 @@ Tym więcej ich powstaje im częściej mówi się o likwidacji gotówki, która 
 Inicjatywy lokalnych walut nie są nowe, były pierwszymi, ale odkąd stosuje się politykę globalizacji
 zaczęto wypierać lokalne waluty, mimo wszystko powstają skutecznie nowe rozwiązania oparte o najnowsze technologie.
 
+## Konta bankowe
 
-Czy przymus posiadania konta w banku i dokonywania transakcji z użyciem tego konta przez przedsiębiorcę jest wywłaszczeniem i narusza Konstytucję RP?
+Czy przymus posiadania konta w banku i dokonywania transakcji z użyciem tego konta przez przedsiębiorcę narusza Konstytucję RP?
+
+### Czym jest Konto bankowe?
 
 Klient w banku nie ma pieniędzy tylko wierzytelność przysługującą mu od banku-dłużnika, która może zostać rozliczona w pieniądzu lub wekslach, inaczej notach banku, albo innej formie np. towarach. Jednorazowo lub we fragmentach.
 
 Przedmiotem kradzieży z konta bankowego są zawsze środki należące do banku.
-Zgodnie z prawem bankowym i kodeksem cywilnym własnością, czyli składnikiem majątku klienta jest tylko wierzytelność banku jako dłużnika wobec klienta jako wierzyciela.
-To ile dłużnik-bank jest winien klientowi-wierzycielowi to kwestia umowy.
 
-Klient może mieć w banku gotówkę lub pieniądze (The gold is the money. http://Au.pl), ale nie na koncie jako zapis dokumentujący wierzytelność, a w "tajnej" skrytce bankowej, którą bank klientowi wynajmie.
+### Wierzytelność banku
+
+Zgodnie z prawem bankowym i kodeksem cywilnym **własnością**, czyli składnikiem majątku klienta jest tylko **wierzytelność banku** jako dłużnika wobec klienta jako wierzyciela.
+
+To ile dłużnik-bank jest winien klientowi-wierzycielowi to kwestia umowy.
+Potwierdza to umowa banku, gdzie odpowiedzialność wobec klienta jest ograniczona do określonej kwoty
+
+### Skrytka a konto bankowe
+
+Klient może mieć w banku gotówkę lub pieniądze, ale nie na koncie jako zapis dokumentujący wierzytelność, a w "tajnej" skrytce bankowej, którą bank klientowi wynajmie.
 
 Tylko w takim przypadku może dojść do kradzieży z banku składnika majątku należącego do klienta, wynajmującego skrytkę bankową, a nie majątku należącego do banku, który jest wynajmującym skrytkę, a nie dłużnikiem klienta-wierzyciela.
 
-Klient ma umowę z bankiem co do przysługującej mu wierzytelności. Wszystkie problemy z włamaniami do banku, do systemów IT są problemami banku jako przedsiębiorcy, który zawarł z klientem umowę, a umowa to zgodny zamiar stron.
 
-Jeżeli klient nie potwierdza świadomego rozporządzenia swoją wierzytelnością to wszystkie naruszenia integralności systemów IT banku są problemem banku, a nie klienta. Prawdziwość oświadczenia woli przez klienta nie podlega dyskusji, do czasu udowodnienia procesowego braku tej prawdziwości lub zmiany oświadczenia klienta. Za bezpieczeństwo zabezpieczeń odpowiada bank. Nikt inny tylko bank. Klientowi trzeba udowodnić świadome i celowe przełamanie zabezpieczeń lub świadome i celowe przekazanie dostępu w celu wyrządzenia szkody bankowi jako przedsiębiorcy, aby klient mógł za cokolwiek z mocy prawa odpowiedzieć.
+### Bezpieczeństwo
+
+Klient ma umowę z bankiem co do przysługującej mu wierzytelności. 
+Wszystkie problemy z włamaniami do banku, do systemów IT są problemami banku jako przedsiębiorcy, który zawarł z klientem umowę, a umowa to zgodny zamiar stron.
+
+Jeżeli klient nie potwierdza świadomego rozporządzenia swoją wierzytelnością to wszystkie naruszenia integralności systemów IT banku są problemem banku, a nie klienta.
+Prawdziwość oświadczenia woli przez klienta nie podlega dyskusji, do czasu udowodnienia procesowego braku tej prawdziwości lub zmiany oświadczenia klienta.
+
+
+### Odpowiedzialność Banku
+
+Jeśli dojdzie do kradzieży z konta bankowego to te środki powinny być zwrócone przez bank w ciągu **jednego dnia** roboczego, tak stanowi art. 46 Ustawy o usługach płatniczych.
+
+
+    niezwłocznie, nie później jednak niż do końca dnia roboczego następującego po dniu stwierdzenia wystąpienia nieautoryzowanej transakcji
+
+
+Tak stanowi prawo, w praktyce banki omijają przepisy zarzucając klientom np. "niedbalstwo". 
+
+
+### Autoryzacja płatności
+
+To banki odpowiadają za nieautoryzowane transakcje płatnicze.
+
+Transakcję uważa się **za autoryzowaną** jeśli płatnik wyraził na nią zgodę (art. 40 Ustawy) czyli, transakcją nieuatoryzowaną będzie każda transakcja zlecona przez osobę do tego nieuprawnioną.
+
+Dla uznania transakcji **za nieautoryzowaną** nie jest istotne, czy dana osoba ***mogła znać loginy i hasła** albo czy potwierdziła transakcję kodem jednorazowym.
+
+
+Bank musi oddać pieniądze zawsze, gdy transakcji dokonała osoba do tego **nieuprawniona**.
+
+
++ Za bezpieczeństwo zabezpieczeń odpowiada bank. 
+
+
+Klientowi trzeba udowodnić **świadome i celowe** przełamanie zabezpieczeń lub świadome i celowe przekazanie dostępu w celu wyrządzenia szkody bankowi jako przedsiębiorcy, aby klient mógł za cokolwiek z mocy prawa odpowiedzieć.
+
 
 Za wszystkie uszczuplenia w składnikach majątku klienta posiadającego konto w banku, do którego to majątku zalicza się suma wierzytelności wobec banku-dłużnika należą się klientowi odszkodowania i zadośćuczynienia, a bank, jego zarząd i jego pracownicy mogą i powinni za nieprawne uszczuplenie majątku klienta ponieść odpowiedzialność karną.
 
-Przymus posiadania konta w banku i dokonywania transakcji z użyciem tego konta przez przedsiębiorcę jest więc wywłaszczeniem i narusza Konstytucję RP.
+### Wniosek
 
+Przymus posiadania konta w banku i dokonywania transakcji z użyciem tego konta jest wywłaszczeniem i narusza Konstytucję RP.
 
 
 

@@ -11,6 +11,29 @@ Inicjatywy lokalnych walut nie są nowe, były pierwszymi, ale odkąd stosuje si
 zaczęto wypierać lokalne waluty, mimo wszystko powstają skutecznie nowe rozwiązania oparte o najnowsze technologie.
 
 
+Czy przymus posiadania konta w banku i dokonywania transakcji z użyciem tego konta przez przedsiębiorcę jest wywłaszczeniem i narusza Konstytucję RP?
+
+Klient w banku nie ma pieniędzy tylko wierzytelność przysługującą mu od banku-dłużnika, która może zostać rozliczona w pieniądzu lub wekslach, inaczej notach banku, albo innej formie np. towarach. Jednorazowo lub we fragmentach.
+
+Przedmiotem kradzieży z konta bankowego są zawsze środki należące do banku.
+Zgodnie z prawem bankowym i kodeksem cywilnym własnością, czyli składnikiem majątku klienta jest tylko wierzytelność banku jako dłużnika wobec klienta jako wierzyciela.
+To ile dłużnik-bank jest winien klientowi-wierzycielowi to kwestia umowy.
+
+Klient może mieć w banku gotówkę lub pieniądze (The gold is the money. http://Au.pl), ale nie na koncie jako zapis dokumentujący wierzytelność, a w "tajnej" skrytce bankowej, którą bank klientowi wynajmie.
+
+Tylko w takim przypadku może dojść do kradzieży z banku składnika majątku należącego do klienta, wynajmującego skrytkę bankową, a nie majątku należącego do banku, który jest wynajmującym skrytkę, a nie dłużnikiem klienta-wierzyciela.
+
+Klient ma umowę z bankiem co do przysługującej mu wierzytelności. Wszystkie problemy z włamaniami do banku, do systemów IT są problemami banku jako przedsiębiorcy, który zawarł z klientem umowę, a umowa to zgodny zamiar stron.
+
+Jeżeli klient nie potwierdza świadomego rozporządzenia swoją wierzytelnością to wszystkie naruszenia integralności systemów IT banku są problemem banku, a nie klienta. Prawdziwość oświadczenia woli przez klienta nie podlega dyskusji, do czasu udowodnienia procesowego braku tej prawdziwości lub zmiany oświadczenia klienta. Za bezpieczeństwo zabezpieczeń odpowiada bank. Nikt inny tylko bank. Klientowi trzeba udowodnić świadome i celowe przełamanie zabezpieczeń lub świadome i celowe przekazanie dostępu w celu wyrządzenia szkody bankowi jako przedsiębiorcy, aby klient mógł za cokolwiek z mocy prawa odpowiedzieć.
+
+Za wszystkie uszczuplenia w składnikach majątku klienta posiadającego konto w banku, do którego to majątku zalicza się suma wierzytelności wobec banku-dłużnika należą się klientowi odszkodowania i zadośćuczynienia, a bank, jego zarząd i jego pracownicy mogą i powinni za nieprawne uszczuplenie majątku klienta ponieść odpowiedzialność karną.
+
+Przymus posiadania konta w banku i dokonywania transakcji z użyciem tego konta przez przedsiębiorcę jest więc wywłaszczeniem i narusza Konstytucję RP.
+
+
+
+
 ## Inicjatywy w Polsce:
 
 

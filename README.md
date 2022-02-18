@@ -2,13 +2,30 @@
 
 + [Oferta sprzedaży domeny lokalnawaluta.pl (lokalna waluta)](https://premium.pl/lokalnawaluta.pl)
 
-## powody powstania projektu
+## Powody powstania projektu
 
 Od wielu lat powstaje wiele inicjatyw wolnej od długu waluty.
 Tym więcej ich powstaje im częściej mówi się o likwidacji gotówki, która mimo szkodliwych działań rządów wywołujących inflację daje możliwośc anonimowej wymiany.
 
 Inicjatywy lokalnych walut nie są nowe, były pierwszymi, ale odkąd stosuje się politykę globalizacji
 zaczęto wypierać lokalne waluty, mimo wszystko powstają skutecznie nowe rozwiązania oparte o najnowsze technologie.
+
+## Wariant Kanadyjski
+
+próżno szukać rozwiązania w systemach kontrolowanych przez rząd/bigtech, warto zainteresować się alternatywami, które są pozbawione w naturalny sposób tych wad
+
+Wariant kanadyjski uczy, ze rząd Kanady nie wstydzi się kradzieży
+
++ Kryptowaluty przekazane protestującym o wartości niemal 900 tys. USD zostały bezwarunkowo zamrożone
++ Bitcoin, Ethereum, Litecoin, Monero i Cardano znalazły się na liście zablokowanych przez władze portfeli
++ W mediach społecznościowych zawrzało, internauci porównują zachowanie rządzących do totalitarnych systemów
+
++ [Kryptowalutowa zbiórka wstrzymana - Władze Kanady walczą z protestami](https://comparic.pl/kryptowalutowa-zbiorka-wstrzymana-wladze-kanady-walcza-z-protestami/)
+
+> -   **Kryptowaluty przekazane protestującym o wartości niemal 900 tys. USD zostały bezwarunkowo zamrożone**
+> -   **Bitcoin, [Ethereum](https://comparic.pl/ethereum-eth-opis-kryptowaluty/), Litecoin, Monero i Cardano znalazły się na liście zablokowanych przez władze portfeli**
+> -   **W mediach społecznościowych zawrzało, internauci porównują zachowanie rządzących do totalitarnych systemów**
+
 
 ## Konta bankowe
 
@@ -90,14 +107,15 @@ Klientowi trzeba udowodnić **świadome i celowe** przełamanie zabezpieczeń lu
 Za wszystkie uszczuplenia w składnikach majątku klienta posiadającego konto w banku, do którego to majątku zalicza się suma wierzytelności wobec banku-dłużnika należą się klientowi odszkodowania i zadośćuczynienia, a bank, jego zarząd i jego pracownicy mogą i powinni za nieprawne uszczuplenie majątku klienta ponieść odpowiedzialność karną.
 
 
-### Wniosek
+## Wniosek
 
 Przymus posiadania konta w banku i dokonywania transakcji z użyciem tego konta jest wywłaszczeniem i narusza Konstytucję RP.
 
-### Więcej
+## Więcej
 
 Warto przeczytać o przykładowych sytuacjach w artykule:
 [» Ukradli mi pieniądze z konta i co dalej? Prawo swoje a banki swoje -- Niebezpiecznik.pl --](https://niebezpiecznik.pl/post/ukradli-mi-pieniadze-z-konta-i-co-dalej-prawo-swoje-a-banki-swoje/)
+
 
 
 ## Ryzyko przypadkowej utraty  
@@ -190,15 +208,19 @@ Czy możesz tym zapłacić swojemu dostawcy?
 Czy możesz tym opłacić podatki?
 
 
-# blockchain
+# Blockchain
 
 ## Blockchain marketplace
 [OpenBazaar on Github](https://github.com/openbazaar)
 
 
 ## Software marketplace based on blockchain
-https://www.openware.com/solution/nft-marketplace-software-platform
 
+[NFT Marketplace Software Platform](https://www.openware.com/solution/nft-marketplace-software-platform)
+
+[Bring the World to Ethereum| Polygon - Polygon](https://polygon.technology/)
+
+## Inne 
 
 + [www.blockchains.pl](https://www.blockchains.pl/#/)
 
